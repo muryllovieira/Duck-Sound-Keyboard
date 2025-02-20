@@ -12,7 +12,7 @@ Este é um projeto em [Python](https://www.python.org).
    winget install Python.Python
    ```
 
-2. Start o aplicativo
+2. Start o projeto
 
    ```bash
     py index.py
