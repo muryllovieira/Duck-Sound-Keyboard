@@ -1,4 +1,4 @@
-# Duck-Sound-Keyboard
+# Duck-Sound-Keyboard 🦆
 
 Pequeno projeto desenvolvimento em Python para automação onde cada tecla apertada no teclado fazer som de pato. 
 
