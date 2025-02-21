@@ -9,18 +9,25 @@ Este é um projeto em [Python](https://www.python.org).
 1. Instalar dependências
 
    ```bash
-   winget install Python.Python
+     winget install Python.Python
    ```
+   ```
+     python.exe -m pip install --upgrade pip
+     ```
 2. Instalar as dependências pynput e playsound
 
      ```
-     pip install pynput playsound
+     pip install pynput
+     ```
+   
+     ```
+     pip install playsound==1.2.2
      ```
 
 
 4. Start o projeto
 
    ```bash
-    py index.py
+    python index.py
    ```
 
