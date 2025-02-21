@@ -11,8 +11,14 @@ Este é um projeto em [Python](https://www.python.org).
    ```bash
    winget install Python.Python
    ```
+2. Instalar as dependências pynput e playsound
 
-2. Start o projeto
+     ```
+     pip install pynput playsound
+     ```
+
+
+4. Start o projeto
 
    ```bash
     py index.py
